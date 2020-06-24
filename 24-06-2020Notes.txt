@@ -1,0 +1,59 @@
+Requirements of Building End to End Web Applications:
+1. HTML			*
+2. CSS			*
+3. Client Side Script		*
+4. Server Side Script
+5. Database
+6. Middleware
+7. IDEs [Integrated Development Environment]	*
+8. Publishing Tools				*
+
+What is UI and UX?
+- User Interface
+- User Experience
+
+ "User Interface is designed with good "UX".
+  - Fluid UX [user experience]	       [SPA]
+  - Unified UX [user experience]
+
+	AngularJs, React JS, Angular
+
+We are learning UI-Technologies for Web, Distributed and Mobile.
+	     Front-end Web Developers
+
+Web Terminology
+1. Network 
+    - A computer network comprises of group of computers connecting with each other for sharing of information and resources.
+	1960 - US-DOD - ARPANET
+	[Advanced Research Projects Agency Network]
+
+2. Types of Networks
+	LAN	- Local Area Network
+	MAN	- Metro Politan Area Network
+	WAN	- Wide Area Network
+
+3. CERN [Council European Research and Nuclear] labs have experimented a new network for commercial use.
+		"Internet"
+
+4. Tim Berners Lee - in early 1990's designed an architecture for network and named it as "Web".
+
+5. Tim Berners Lee introduced the concept of Web and a language called "HTML".
+
+	               "What is Web?"
+   Web is a portion of Internet with restricted access.
+
+6. Web Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
