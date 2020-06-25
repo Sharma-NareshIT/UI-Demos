@@ -1,0 +1,67 @@
+1. Network
+2. Types of Networks
+3. Internet
+4. Web
+5. Web Server: It resembles both hardware and software. It satisfies the client request by sending and reciving the resources.
+	Ex:   Tomcat, IIS
+
+Look for WebServer on Your PC [IIS for Windows]:
+==========================================
+1. Open Windows Control Panel
+2. Switch to "Large Icon"
+3. Goto "Administrative Tools"
+4. Look for
+      "Internet Information Services Manager"
+
+Add WebServer to your Windows PC if Not Available:
+============================================
+1. Got Control Panel
+2. Open "Programs and Features"
+3. Click on "Turn Windows Feature ON or OFF"
+4. Select "Internet Information Services"
+5. Click OK
+
+Test WebServer:
+==============
+1. Open any Browser
+2. Type the following in URL
+	http://localhost
+	         (or)
+	http://127.0.0.1
+
+
+IIS may be stopped on your PC:
+===========================
+1. Open Services
+	run → services.msc
+
+2. Stop other server running
+
+3. Start "World Wide Web Publishing Service"
+
+		WebSite
+		=======
+- Web site is a "Virtual Directory" on web server.
+- It provides access to the resources on server.
+	 Web - Network
+	 Site  - Location
+
+Creating a new Website on Local Web Server:
+======================================
+1. Open IIS
+        run → inetmgr
+
+2. Expand Local computer [http://localhost]
+3. Expand "Sites" folder
+4. Right Click on "Default Website"
+5. Select the option 
+	"Add Virtual Directory"
+
+       Alias [Website Name]	: Shopping
+       Physical Path		: C:\Shopping
+
+Virtual Path :      http://localhost/shopping
+Physical Path:    C:\Shopping
+
+WebPage:
+
