@@ -1,0 +1,46 @@
+Web Server 
+Web Site
+	Virtual Path
+	Physical Path
+Web Page: Web page is an Hyper Text Document. It provides an UI from where user can interact with the resources of a website. The Web Pages are classified into 2 types
+	a) Static Page
+	b) Dynamic Page
+
+
+Static Page : It contains same information to display across any number of requests. Usually static pages have the extention  ".html,  .htm".
+
+ Ex:
+		home.html
+		index.htm
+
+Dynamic Page: It comprises of information which changes according to client request. Usually dynamic pages have the extention ".jsp, .php, .aspx etc"
+	         A dynamic page handles interaction server side.
+
+		movies.aspx
+		results.jsp
+		ticket.php
+
+Web is Not all about WebSite
+- Web Site		: Will not allow any interaction server
+		  side.
+- Web Application	: Will allow interactions server side.
+- Blog		: Web-Log (blog) - They are journals
+		  on internet. Usually published by
+		  individual users and update 		  periodically.
+		  YouTube - VLog
+- Micro Blog	: My users can post their personal 		  information on to single page.
+		EX:  Twitter  [SPA]
+- Wiki		: Wiki - Hawain - Quick
+		Wiki - Quick
+		Pedia - Reference for Encyclopedia
+- Podcasting
+- Widgets
+- URL
+- URI
+- Http - Protocol
+
+
+
+
+
+	
