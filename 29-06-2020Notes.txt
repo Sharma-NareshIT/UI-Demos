@@ -1,0 +1,40 @@
+		          HTML
+	        [Hyper Text Markup Language]
+- First Browser was Moasic
+- Markup Language - It is a language used for presentation.
+- At CERN labs the languages GML [Generic Markup Language] and SGML [Standard Generic Markup Language] were developed as Presentation Language.
+- Later in 1990 Tim Berners Lee introduced Web.
+- Later Tim Berners Lee introduced HTML [Hyper Text Markup Language] for Web.
+- Initial Release of HTML was in 1993.
+- Later Several Versions of HTML were released
+
+HTML - 2		November 24, 1995
+HTML - 3		January 14, 1997
+HTML - 4		Dec 18, 1997
+HTML - 5		Oct 28, 2014
+HTML - 5.2	May 27, 2019
+
+- Hyper Text Markup Language - It follows the standards from the protocol HTTP. [Hyper Text Transfer Protocol].
+
+- Protocol defines set of rules that are used by computers in a network to comunicate with each other.
+
+- Computers in different networks communicate by using various protocols.
+	Web Server 	- Http
+	File Server	- File 
+	File System	- ftp
+	Email		- SMTP
+	Messages		- MSMQ
+
+   http://localhost/shopping/home.html
+   file:///c:/shopping/home.html
+
+	\	- back slash  only for physical path
+	/	- forward slash for virtual path
+
+HTML Presents your information on browser by using a set of Elements, which are presented in a Hierarchy called DOM.
+[Document Object Model]
+
+
+
+
+ 
