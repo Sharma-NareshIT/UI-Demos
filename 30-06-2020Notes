@@ -1,0 +1,73 @@
+
+What is BOM ?
+- Browser Object Model
+- It is used by client side scripts to handle HTML page and
+  browser.
+
+What is DOM ? 
+- Document Object Model
+- HTML Page uses the DOM for presentation.
+- HTML is a language that comprises of elements arranged in a hierarchy known as DOM.
+- HTML is a collection of elements presented by using Tag.
+
+	Image()	→ Element
+	<img>	→ Tag
+
+- HTML Elements are classified into following types
+	1. Normal Elements
+	2. Void Elements
+	3. RC Data Elements
+	4. Raw Text Elements
+	5. Foreign Elements
+
+1. Normal Elements  :  These are the elements that return a
+		presentation directly without any
+		attributes.
+		These Elements once start returning
+		 a presentation will not end the 
+		 presentation.
+		 You have to manually end the 		 presentation.
+		 Hence these elements will have 
+		 a start tag <b> and end tag </b>.
+
+		Ex:   bold	  <b>  </b>
+
+2. Void Elements	:  These are the elements that will
+		   not return any presentation directly.
+
+		    These elements require an attribute
+		    that specifies what to return.
+
+		    They will return only the specified	
+		    value and stop.
+
+		     Hence they are self ending elements.
+		     Doesn't require an End tag.
+			
+		    Ex:  <img>
+		
+3. RC Data Elements :   These are Rich Content Elements
+		     These are the elements which will
+		     not allow any another element with
+		     in the context.
+		 
+		  Ex:   <textarea>
+
+4. Raw Text Elements:  These are the elements presented
+		     by using raw text i.e without any
+		     tag.
+			
+		     Ex:  &, <  , >    &#8377;  &copy;
+
+5. Foreign Element   : These are the element supported in
+		   HTML but requires additional library.
+		   You can import the library and use
+		    these elements.
+		 
+		 Ex:  Canvas, SVG, MathML
+
+		
+		 
+
+
+
