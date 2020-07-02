@@ -1,0 +1,78 @@
+- Document Declaration
+	<!DOCTYPE html>
+- Document Scope
+	<html> </html>
+- <html> tag specifies start and end of document.
+- Every HTML tag comprises of Attributes.
+- Event HTML element comprises of Properties.
+
+FAQ: What is difference between Attribute and Property?
+A.
+  - Every html element is designed by using Tag
+  - Elements are used dynamically i.e at run time elements are created and added to page.
+  - Statically elements are defined by using Tag.
+
+    Picture on Page:
+     Image is element that provides properties for picture.
+            var pic = new Image();
+            pic.height=	]
+            pic.width=	]	Properties
+            pic.src=	]
+
+     <img> is tag that provides attributes for picture.
+             <img width=""  height=""  src="">
+	         |
+	      attributes
+      Attributes allow to extend the functionality of any HTML tag.
+	<h2 align="center"> Welcome </h2>
+
+Document Scope <html>  Attribute
+  <!DOCTYPE html>
+  <html  lang="">
+
+  </html>
+
+  lang - specifies the language used for coding 
+          - It can various types according to region.
+	      India - English Indian    "en-IN"
+	      US    -  English US         "en-US"
+	      Britan - Great Britan      "en-GB"
+
+  Syntax:
+	<html  lang="en-IN">          
+	<html  lang="en-us">
+
+Document Scope comprises of 2 Major section
+=======================================
+1. head	<head> </head>
+2. body	<body> </body>
+
+Syntax:
+<!DOCTYPE html>
+<html lang="en-in">
+   <head> </head>
+   <body> </body>
+</html>
+
+Head Section: It comprises of components that are loaded into browser memory , when page is requested by client. Later they can be used by browser or by page. 
+	        The commonly used components in head sections of HTML page are:
+	1. title
+	2. link
+	3. style
+	4. script
+	5. meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
