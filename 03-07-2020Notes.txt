@@ -1,0 +1,56 @@
+Document Structure
+1. Document Declaration
+2. Document Scope
+	a) Head Section
+	b) Body Section
+
+Head Section :
+- It contains components that are loaded into browser memory when page is requested by user.
+- These components are used by browser as well as by page.
+- Regularly used components in head section are
+	a) title
+	b) link
+	c) meta
+	d) script
+	e) style
+
+Note: There is no preciding order for elements in head section.
+ 
+title  : It is used to define title to display in the title bar of
+          browser when page is loaded. This title will be used
+          in Bookmarking.
+
+ Syntax:
+ <!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+     <title> Shopping | Home </title>
+  </head>
+</html>
+
+link : It is used to link external files to a web page like
+         shortcut icon, stylesheet etc.
+         Shortcut icon is a favicon, which will be display beside
+         title while bookmarking page as well as in the title bar.
+
+         - Keep icon size  16 x 16 pixels
+         - It must be ".ico"  type
+         - Create a Icon in MsPaint
+         - Save in your website physical path "Images" folder
+           by name  "favicon", type "png"
+         - Open the file location in command prompt
+
+          C:\Shopping\Images>rename  favicon.png  favicon.ico
+
+         - link the favicon to your page.
+
+Ex:
+<!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+    <title> Shopping | Home </title>
+    <link rel="shortcut icon"  href="Images/favicon.ico">
+  </head>
+</html>
+
+
